@@ -12,3 +12,7 @@ La cocina china ofrece una gran diversidad de sabores y técnicas culinarias, de
 - Té de jazmín.
 - Té oolong.
 - Agua caliente.
+
+## Consejos
+- Cocina los ingredientes a fuego alto para conservar su textura.
+- Utiliza salsa de soja con moderación.
