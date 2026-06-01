@@ -13,3 +13,8 @@ La cocina japonesa destaca por su equilibrio, presentación cuidada y el uso de 
 - Té verde.
 - Sake.
 - Agua mineral.
+
+
+## Consejos
+- Utiliza ingredientes frescos y de calidad.
+- Sirve los platos de forma sencilla y elegante.
