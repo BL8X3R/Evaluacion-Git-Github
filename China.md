@@ -7,3 +7,8 @@ La cocina china ofrece una gran diversidad de sabores y técnicas culinarias, de
 - **Arroz Frito Especial**: Arroz salteado con vegetales, huevo y carne.
 - **Pollo Agridulce**: Pollo crujiente con salsa dulce y ácida.
 - **Dumplings**: Empanadillas rellenas al vapor o fritas.
+
+## Bebidas Recomendadas
+- Té de jazmín.
+- Té oolong.
+- Agua caliente.
