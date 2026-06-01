@@ -12,3 +12,7 @@ La cocina francesa es famosa por su sofisticación, técnicas culinarias refinad
 - Vino francés.
 - Agua mineral.
 - Champán para ocasiones especiales.
+
+## Consejos
+- Respeta los tiempos de cocción para obtener mejores resultados.
+- Utiliza mantequilla y hierbas frescas de calidad.
