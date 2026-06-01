@@ -12,3 +12,7 @@ Los postres ofrecen el toque dulce perfecto para finalizar una comida, combinand
 - Café.
 - Chocolate caliente.
 - Té aromático.
+
+## Consejos
+- Sirve los postres a la temperatura adecuada.
+- Decora con frutas frescas para una mejor presentación.
