@@ -7,3 +7,8 @@ La cocina mediterránea se basa en ingredientes frescos y saludables como aceite
 - **Ensalada Griega**: Tomate, pepino, aceitunas y queso feta.
 - **Paella de Mariscos**: Arroz con mariscos y especias.
 - **Pescado a la Parrilla**: Pescado fresco acompañado de vegetales.
+
+## Bebidas Recomendadas
+- Agua con limón.
+- Vino blanco.
+- Infusiones de hierbas.
