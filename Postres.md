@@ -7,3 +7,8 @@ Los postres ofrecen el toque dulce perfecto para finalizar una comida, combinand
 - **Tiramisú**: Postre italiano a base de café y queso mascarpone.
 - **Cheesecake de Frutos Rojos**: Tarta cremosa con cobertura de frutas.
 - **Brownie de Chocolate**: Bizcocho denso de chocolate.
+
+## Bebidas Recomendadas
+- Café.
+- Chocolate caliente.
+- Té aromático.
