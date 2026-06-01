@@ -8,3 +8,9 @@ La cocina especializada en carnes resalta cortes de calidad preparados mediante 
 - **Ribeye a la Parrilla**: Corte jugoso cocinado al punto deseado.
 - **Costillas BBQ**: Costillas bañadas en salsa barbacoa.
 - **Lomo de Res al Horno**: Carne tierna con especias aromáticas.
+
+
+## Platos Principales
+- **Ribeye a la Parrilla**: Corte jugoso cocinado al punto deseado.
+- **Costillas BBQ**: Costillas bañadas en salsa barbacoa.
+- **Lomo de Res al Horno**: Carne tierna con especias aromáticas.
