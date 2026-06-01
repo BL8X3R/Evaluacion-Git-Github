@@ -12,3 +12,7 @@ La cocina vegetariana se centra en alimentos de origen vegetal, ofreciendo opcio
 - Batidos naturales.
 - Té frío.
 - Agua saborizada con frutas.
+
+## Consejos
+- Combina diferentes fuentes de proteína vegetal.
+- Utiliza una amplia variedad de vegetales para enriquecer los platos.
