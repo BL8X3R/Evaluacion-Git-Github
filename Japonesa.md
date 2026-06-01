@@ -8,3 +8,8 @@ La cocina japonesa destaca por su equilibrio, presentación cuidada y el uso de 
 - **Sushi Variado**: Arroz acompañado de pescado fresco y vegetales.
 - **Ramen**: Sopa de fideos con caldo aromático y diversos acompañamientos.
 - **Tempura**: Mariscos y verduras rebozados y fritos.
+
+## Bebidas Recomendadas
+- Té verde.
+- Sake.
+- Agua mineral.
