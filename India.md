@@ -7,3 +7,8 @@ La cocina india es reconocida por su variedad de especias, aromas intensos y com
 - **Pollo Tikka Masala**: Pollo en salsa cremosa especiada.
 - **Biryani**: Arroz aromático cocinado con especias y carne o verduras.
 - **Palak Paneer**: Queso fresco en salsa de espinacas.
+
+## Bebidas Recomendadas
+- Lassi de mango.
+- Té Masala Chai.
+- Agua fresca.
