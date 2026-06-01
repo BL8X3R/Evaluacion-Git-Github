@@ -5,15 +5,15 @@ Bienvenido a la **Guía de Menús Gastronómicos**, una recopilación de menús 
 ## Tipos de Cocina
 ​
 - [Cocina Italiana](Italiana.md): Descubre los sabores tradicionales de Italia con platos como pizza, pasta y risotto.
-- [Cocina Mexicana](menus/Mexicana.md): Vive la experiencia de México con tacos, enchiladas y margaritas.
-- [Cocina Japonesa](menus/Japonesa.md): Sushis, ramen y más delicias niponas.
-- [Cocina India](menus/India.md): Platos especiados como curry y biryani.
-- [Cocina China](menus/China.md): Dumplings, pato pekinés y arroz frito.
-- [Cocina Francesa](menus/Francesa.md): Crepes, ratatouille y elegantes postres.
-- [Cocina Mediterránea](menus/Mediterranea.md): Platos frescos como ensaladas y pescados.
-- [Cocina Vegetariana](menus/Vegetariana.md): Opciones saludables y sin carne.
-- [Cocina de Carnes](menus/Carnes.md): Asados, parrilladas y más.
-- [Postres](menus/Postres.md): Dulces tentaciones para terminar con broche de oro.
+- [Cocina Mexicana](Mexicana.md): Vive la experiencia de México con tacos, enchiladas y margaritas.
+- [Cocina Japonesa](Japonesa.md): Sushis, ramen y más delicias niponas.
+- [Cocina India](India.md): Platos especiados como curry y biryani.
+- [Cocina China](China.md): Dumplings, pato pekinés y arroz frito.
+- [Cocina Francesa](Francesa.md): Crepes, ratatouille y elegantes postres.
+- [Cocina Mediterránea](Mediterranea.md): Platos frescos como ensaladas y pescados.
+- [Cocina Vegetariana](Vegetariana.md): Opciones saludables y sin carne.
+- [Cocina de Carnes](Carnes.md): Asados, parrilladas y más.
+- [Postres](Postres.md): Dulces tentaciones para terminar con broche de oro.
 ​
 ## Cómo Usar Esta Guía
 ​
