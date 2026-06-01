@@ -12,3 +12,7 @@ La cocina india es reconocida por su variedad de especias, aromas intensos y com
 - Lassi de mango.
 - Té Masala Chai.
 - Agua fresca.
+
+## Consejos
+- Equilibra las especias para evitar sabores excesivos.
+- Acompaña con pan naan recién horneado.
